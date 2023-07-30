@@ -1,0 +1,351 @@
+Month,Cases,Hospitals,Deaths,City,Date
+3,28,Liaquat,2,Islamabad,22/3/2020
+6,40,Liaquat,,Peshawar,15/4/2020
+5,40,Aga Khan,4,Islamabad,29/2/2020
+3,3,Jinnah,2,Islamabad,5/4/2020
+3,61,PIMS,5,Karachi,4/2/2020
+3,26,Jinnah,4,Peshawar,5/2/2020
+5,9,Jinnah,1,Quetta,15/1/2020
+4,15,PIMS,3,Peshawar,27/2/2020
+5,44,Liaquat,4,Lahore,24/4/2020
+1,28,Jinnah,,Quetta,1/3/2020
+4,15,Aga Khan,,Islamabad,12/3/2020
+5,55,Aga Khan,5,Islamabad,3/5/2020
+5,66,PIMS,4,Islamabad,23/1/2020
+5,68,Aga Khan,5,Quetta,19/5/2020
+4,,Jinnah,5,Peshawar,5/3/2020
+4,30,PIMS,,Islamabad,20/5/2020
+3,34,Liaquat,,Karachi,29/3/2020
+4,,Liaquat,3,Lahore,27/4/2020
+5,61,Jinnah,3,Islamabad,12/3/2020
+1,54,Liaquat,1,Islamabad,29/2/2020
+2,69,Liaquat,4,Karachi,7/5/2020
+3,36,Jinnah,5,Karachi,25/5/2020
+4,62,Aga Khan,2,Quetta,27/4/2020
+3,,Jinnah,1,Quetta,30/3/2020
+6,,PIMS,,Karachi,8/3/2020
+1,30,Liaquat,5,Quetta,11/4/2020
+6,46,Aga Khan,,Islamabad,21/3/2020
+3,28,Liaquat,5,Quetta,24/3/2020
+1,42,Liaquat,5,Karachi,25/5/2020
+1,,Jinnah,2,Karachi,9/3/2020
+3,21,Aga Khan,,Quetta,10/4/2020
+3,34,Aga Khan,4,Quetta,8/1/2020
+5,2,Aga Khan,1,Karachi,12/3/2020
+1,47,Aga Khan,3,Lahore,10/3/2020
+1,16,Aga Khan,5,Karachi,20/1/2020
+2,4,Jinnah,2,Karachi,14/1/2020
+4,46,Liaquat,,Karachi,6/1/2020
+4,51,PIMS,1,Lahore,24/5/2020
+4,40,Aga Khan,3,Karachi,27/2/2020
+2,48,PIMS,3,Lahore,14/5/2020
+6,21,Liaquat,3,Peshawar,15/4/2020
+4,15,Aga Khan,1,Islamabad,8/1/2020
+2,22,Liaquat,4,Peshawar,24/6/2020
+5,41,Jinnah,3,Islamabad,17/2/2020
+4,,Jinnah,3,Islamabad,31/1/2020
+6,57,Liaquat,,Peshawar,4/4/2020
+4,,Liaquat,5,Lahore,9/2/2020
+1,22,Aga Khan,,Peshawar,18/1/2020
+3,6,Aga Khan,,Islamabad,9/2/2020
+6,19,Aga Khan,4,Karachi,23/4/2020
+6,,PIMS,3,Peshawar,5/6/2020
+2,51,Jinnah,5,Peshawar,25/5/2020
+6,14,Liaquat,5,Peshawar,23/3/2020
+5,3,Liaquat,,Peshawar,29/1/2020
+2,48,PIMS,3,Karachi,13/2/2020
+5,2,Liaquat,5,Peshawar,7/2/2020
+1,70,PIMS,3,Lahore,29/4/2020
+1,51,PIMS,,Islamabad,12/4/2020
+1,53,Aga Khan,5,Islamabad,25/2/2020
+4,31,Aga Khan,,Peshawar,18/1/2020
+2,56,PIMS,3,Karachi,31/5/2020
+5,63,Aga Khan,3,Islamabad,12/4/2020
+6,43,Aga Khan,1,Islamabad,20/3/2020
+5,65,Jinnah,3,Lahore,5/6/2020
+4,44,PIMS,1,Islamabad,16/2/2020
+1,40,Liaquat,,Karachi,6/1/2020
+5,63,PIMS,1,Islamabad,7/2/2020
+3,62,PIMS,,Karachi,20/6/2020
+3,7,PIMS,5,Quetta,15/3/2020
+1,26,Liaquat,4,Peshawar,16/4/2020
+5,20,PIMS,1,Lahore,29/1/2020
+2,38,Aga Khan,4,Islamabad,27/4/2020
+3,11,Aga Khan,2,Islamabad,11/6/2020
+3,,Liaquat,4,Quetta,4/3/2020
+3,61,Aga Khan,,Quetta,11/3/2020
+1,32,PIMS,,Karachi,23/1/2020
+2,20,PIMS,5,Quetta,17/2/2020
+3,2,Jinnah,4,Lahore,22/2/2020
+6,,Jinnah,1,Lahore,27/3/2020
+4,21,PIMS,4,Lahore,6/6/2020
+5,24,Liaquat,,Quetta,19/1/2020
+5,,Jinnah,,Karachi,24/5/2020
+3,23,Aga Khan,,Peshawar,15/4/2020
+3,69,PIMS,1,Karachi,8/5/2020
+4,51,Liaquat,2,Quetta,9/5/2020
+2,45,Jinnah,4,Islamabad,14/3/2020
+6,67,Jinnah,5,Islamabad,24/6/2020
+6,61,Jinnah,4,Quetta,19/3/2020
+1,54,Jinnah,,Islamabad,17/4/2020
+3,27,Jinnah,4,Lahore,29/4/2020
+4,36,PIMS,2,Islamabad,18/1/2020
+1,52,Aga Khan,3,Quetta,12/4/2020
+3,13,Jinnah,,Islamabad,8/1/2020
+3,18,Jinnah,5,Islamabad,12/6/2020
+3,15,Jinnah,2,Peshawar,2/6/2020
+5,3,Jinnah,4,Islamabad,14/5/2020
+5,23,Liaquat,,Peshawar,4/4/2020
+3,,Liaquat,4,Quetta,6/1/2020
+4,56,PIMS,5,Karachi,31/3/2020
+3,29,Jinnah,,Lahore,12/5/2020
+5,35,Liaquat,5,Karachi,10/1/2020
+1,,Jinnah,,Lahore,28/2/2020
+4,48,Liaquat,3,Quetta,13/1/2020
+5,56,Jinnah,1,Islamabad,12/4/2020
+5,11,Aga Khan,4,Peshawar,2/5/2020
+4,46,Liaquat,1,Lahore,10/6/2020
+2,70,Aga Khan,,Islamabad,30/4/2020
+6,8,Jinnah,1,Islamabad,3/5/2020
+6,33,Liaquat,1,Peshawar,16/4/2020
+2,61,Jinnah,1,Lahore,19/1/2020
+6,54,Jinnah,,Lahore,11/1/2020
+5,15,Aga Khan,3,Peshawar,17/4/2020
+1,52,Liaquat,3,Quetta,8/2/2020
+3,53,Liaquat,,Islamabad,27/3/2020
+3,26,Aga Khan,4,Islamabad,19/2/2020
+4,28,Jinnah,2,Quetta,11/2/2020
+4,49,PIMS,1,Peshawar,4/5/2020
+4,58,Aga Khan,5,Peshawar,8/5/2020
+1,43,PIMS,2,Islamabad,8/3/2020
+5,31,Liaquat,2,Karachi,20/5/2020
+3,65,PIMS,4,Lahore,7/2/2020
+3,17,Jinnah,4,Peshawar,20/4/2020
+2,16,Liaquat,3,Lahore,16/6/2020
+4,23,Aga Khan,,Islamabad,8/4/2020
+5,,Jinnah,5,Quetta,11/4/2020
+3,45,Aga Khan,5,Karachi,24/4/2020
+1,69,Liaquat,1,Lahore,7/5/2020
+3,38,Jinnah,3,Peshawar,15/1/2020
+2,,Aga Khan,5,Islamabad,1/3/2020
+6,38,PIMS,,Peshawar,22/5/2020
+3,33,PIMS,,Karachi,8/6/2020
+1,9,Liaquat,4,Islamabad,21/4/2020
+2,10,Aga Khan,1,Karachi,19/5/2020
+5,64,Aga Khan,5,Islamabad,29/1/2020
+5,28,Jinnah,2,Karachi,11/3/2020
+6,54,PIMS,5,Quetta,22/1/2020
+5,22,PIMS,5,Lahore,30/4/2020
+3,38,Aga Khan,4,Peshawar,30/5/2020
+2,,Aga Khan,4,Peshawar,2/2/2020
+6,66,Liaquat,,Karachi,24/6/2020
+1,,PIMS,3,Islamabad,10/5/2020
+1,,Aga Khan,3,Karachi,26/1/2020
+1,26,Jinnah,,Islamabad,7/3/2020
+5,2,Liaquat,5,Islamabad,4/3/2020
+2,44,Aga Khan,,Karachi,24/1/2020
+5,27,Liaquat,4,Lahore,24/2/2020
+5,35,Jinnah,4,Karachi,4/1/2020
+1,66,PIMS,2,Quetta,11/2/2020
+6,,Liaquat,1,Islamabad,17/3/2020
+1,,Jinnah,,Quetta,1/2/2020
+1,46,Aga Khan,1,Islamabad,21/2/2020
+2,,PIMS,2,Peshawar,6/2/2020
+3,46,Liaquat,5,Islamabad,2/5/2020
+2,30,Jinnah,2,Islamabad,1/5/2020
+2,,Liaquat,4,Lahore,21/2/2020
+6,46,Jinnah,1,Quetta,17/1/2020
+5,7,PIMS,,Lahore,18/5/2020
+3,38,PIMS,3,Quetta,22/2/2020
+1,44,Aga Khan,4,Lahore,19/4/2020
+6,35,Jinnah,2,Islamabad,13/4/2020
+4,70,PIMS,,Quetta,19/6/2020
+5,34,PIMS,4,Islamabad,13/2/2020
+4,3,Liaquat,4,Karachi,20/6/2020
+3,,Jinnah,1,Peshawar,18/6/2020
+4,52,Aga Khan,2,Islamabad,5/5/2020
+4,59,PIMS,3,Lahore,24/1/2020
+6,68,PIMS,1,Peshawar,20/3/2020
+1,20,PIMS,2,Lahore,22/1/2020
+4,64,Jinnah,3,Islamabad,10/4/2020
+1,51,Jinnah,,Lahore,12/4/2020
+2,,Jinnah,1,Peshawar,7/5/2020
+5,38,Jinnah,5,Quetta,20/2/2020
+4,26,Aga Khan,4,Quetta,21/3/2020
+6,12,Jinnah,2,Karachi,9/2/2020
+6,20,Jinnah,1,Peshawar,8/3/2020
+1,61,PIMS,1,Islamabad,28/4/2020
+6,61,Aga Khan,5,Lahore,7/2/2020
+6,9,Aga Khan,5,Islamabad,28/4/2020
+5,25,Liaquat,2,Lahore,29/4/2020
+2,,PIMS,4,Islamabad,22/1/2020
+2,61,PIMS,2,Lahore,21/6/2020
+3,,Liaquat,2,Quetta,30/3/2020
+4,69,PIMS,3,Karachi,8/3/2020
+3,30,Aga Khan,5,Karachi,29/4/2020
+1,17,PIMS,1,Peshawar,21/6/2020
+4,70,Jinnah,1,Karachi,30/3/2020
+1,20,Liaquat,2,Peshawar,19/1/2020
+4,,PIMS,3,Peshawar,10/1/2020
+5,47,Aga Khan,3,Lahore,27/2/2020
+3,,Liaquat,4,Quetta,2/4/2020
+5,28,Jinnah,3,Quetta,24/6/2020
+6,46,PIMS,4,Peshawar,3/3/2020
+4,,PIMS,4,Lahore,8/5/2020
+3,52,PIMS,5,Quetta,26/4/2020
+6,44,Jinnah,1,Peshawar,20/4/2020
+2,45,PIMS,,Peshawar,17/6/2020
+6,54,Jinnah,1,Karachi,30/4/2020
+1,48,Jinnah,4,Peshawar,4/2/2020
+4,,Liaquat,2,Islamabad,2/6/2020
+4,7,Jinnah,3,Karachi,26/2/2020
+4,69,Liaquat,,Quetta,18/1/2020
+4,12,Liaquat,5,Islamabad,24/1/2020
+4,,Jinnah,2,Peshawar,18/1/2020
+6,41,Aga Khan,1,Lahore,27/2/2020
+6,,Jinnah,,Peshawar,29/3/2020
+2,2,Jinnah,1,Peshawar,27/1/2020
+4,34,Aga Khan,,Islamabad,27/4/2020
+3,33,PIMS,5,Karachi,26/5/2020
+4,66,Liaquat,4,Islamabad,28/6/2020
+4,67,Aga Khan,4,Peshawar,11/2/2020
+4,19,Liaquat,4,Peshawar,8/5/2020
+2,17,PIMS,3,Islamabad,4/4/2020
+5,64,Jinnah,,Karachi,17/5/2020
+3,47,Jinnah,3,Quetta,20/5/2020
+1,62,Liaquat,,Karachi,1/2/2020
+3,57,Jinnah,3,Peshawar,27/6/2020
+5,66,PIMS,5,Lahore,28/3/2020
+5,,Aga Khan,5,Quetta,6/6/2020
+3,69,PIMS,,Karachi,20/2/2020
+6,68,Liaquat,1,Lahore,9/6/2020
+4,51,Liaquat,4,Peshawar,18/4/2020
+2,13,Liaquat,4,Lahore,21/1/2020
+4,,PIMS,3,Karachi,23/6/2020
+6,,Aga Khan,3,Peshawar,15/6/2020
+5,47,Jinnah,3,Islamabad,30/4/2020
+2,5,PIMS,4,Islamabad,17/4/2020
+2,7,Aga Khan,5,Islamabad,3/2/2020
+2,50,Jinnah,,Lahore,25/2/2020
+6,32,Liaquat,,Quetta,17/5/2020
+4,42,Liaquat,5,Quetta,13/4/2020
+5,51,Aga Khan,3,Karachi,2/1/2020
+4,6,PIMS,3,Quetta,30/4/2020
+5,67,Liaquat,2,Islamabad,6/1/2020
+1,1,PIMS,3,Lahore,12/6/2020
+2,5,Liaquat,4,Islamabad,3/6/2020
+3,22,Liaquat,1,Karachi,26/5/2020
+2,69,Liaquat,,Islamabad,22/1/2020
+3,13,Jinnah,2,Lahore,12/4/2020
+2,22,PIMS,5,Islamabad,25/6/2020
+2,66,Jinnah,4,Peshawar,26/6/2020
+3,,Aga Khan,3,Peshawar,24/3/2020
+3,62,Liaquat,2,Islamabad,24/6/2020
+6,68,PIMS,,Islamabad,4/5/2020
+4,69,Liaquat,3,Karachi,13/2/2020
+3,,Aga Khan,5,Quetta,23/3/2020
+4,46,Jinnah,5,Lahore,21/2/2020
+4,36,Liaquat,2,Quetta,9/1/2020
+5,12,Jinnah,5,Peshawar,2/2/2020
+2,60,Aga Khan,4,Islamabad,9/2/2020
+6,27,Liaquat,3,Quetta,11/5/2020
+3,50,PIMS,3,Peshawar,29/3/2020
+2,51,Jinnah,5,Quetta,19/1/2020
+3,50,Liaquat,1,Quetta,23/1/2020
+3,40,Jinnah,3,Islamabad,11/1/2020
+6,8,Jinnah,3,Peshawar,25/5/2020
+1,,Jinnah,2,Karachi,8/2/2020
+3,30,Aga Khan,1,Quetta,29/6/2020
+3,14,Liaquat,,Islamabad,29/4/2020
+5,5,PIMS,4,Quetta,13/2/2020
+6,48,PIMS,3,Karachi,4/5/2020
+1,30,PIMS,1,Karachi,7/6/2020
+1,5,Liaquat,,Lahore,7/4/2020
+3,11,PIMS,1,Quetta,24/6/2020
+1,26,PIMS,4,Lahore,11/3/2020
+6,62,PIMS,,Quetta,21/4/2020
+3,24,Jinnah,4,Lahore,28/2/2020
+6,38,Aga Khan,,Karachi,24/4/2020
+5,2,Aga Khan,1,Lahore,11/2/2020
+6,39,Liaquat,,Peshawar,26/3/2020
+1,42,PIMS,5,Islamabad,12/2/2020
+6,,Jinnah,5,Peshawar,2/2/2020
+2,70,Liaquat,4,Islamabad,29/5/2020
+4,29,Jinnah,2,Karachi,10/6/2020
+4,4,Aga Khan,4,Quetta,28/4/2020
+2,45,Liaquat,5,Lahore,3/1/2020
+3,,Jinnah,2,Lahore,18/4/2020
+1,21,Jinnah,5,Karachi,28/2/2020
+5,27,Jinnah,4,Islamabad,22/1/2020
+6,66,Liaquat,4,Peshawar,27/2/2020
+2,69,PIMS,2,Peshawar,20/6/2020
+1,43,Liaquat,5,Islamabad,17/5/2020
+5,14,PIMS,2,Quetta,7/1/2020
+1,24,Aga Khan,,Karachi,6/1/2020
+1,25,Jinnah,3,Islamabad,7/3/2020
+3,15,Liaquat,4,Peshawar,2/5/2020
+5,55,Liaquat,3,Karachi,15/5/2020
+2,32,PIMS,,Quetta,7/6/2020
+6,25,PIMS,2,Quetta,27/5/2020
+5,7,Liaquat,3,Karachi,31/3/2020
+6,59,Liaquat,2,Lahore,21/6/2020
+6,22,PIMS,5,Islamabad,1/1/2020
+6,6,Aga Khan,3,Lahore,31/3/2020
+3,10,Liaquat,1,Peshawar,9/4/2020
+5,50,Jinnah,5,Quetta,11/3/2020
+4,32,Aga Khan,,Quetta,25/2/2020
+4,63,Aga Khan,1,Quetta,23/5/2020
+1,57,PIMS,3,Lahore,16/4/2020
+1,20,Liaquat,5,Lahore,22/3/2020
+6,,Liaquat,2,Peshawar,29/6/2020
+5,37,PIMS,4,Islamabad,8/1/2020
+6,,Liaquat,2,Islamabad,26/6/2020
+1,20,Jinnah,1,Quetta,15/5/2020
+6,42,Aga Khan,3,Peshawar,10/3/2020
+2,31,Liaquat,1,Quetta,13/4/2020
+3,41,Liaquat,4,Quetta,27/1/2020
+6,,Liaquat,4,Karachi,7/5/2020
+6,33,Liaquat,5,Karachi,25/5/2020
+3,65,Liaquat,1,Lahore,9/5/2020
+6,4,Jinnah,4,Lahore,3/5/2020
+2,17,PIMS,3,Lahore,22/2/2020
+4,,Aga Khan,2,Karachi,15/3/2020
+2,,Aga Khan,3,Islamabad,12/4/2020
+2,35,Aga Khan,4,Islamabad,15/5/2020
+5,26,PIMS,2,Peshawar,19/6/2020
+4,37,Jinnah,2,Lahore,6/2/2020
+5,31,Liaquat,,Islamabad,2/4/2020
+6,34,PIMS,3,Islamabad,14/4/2020
+2,,Jinnah,1,Islamabad,5/1/2020
+3,41,Aga Khan,4,Quetta,6/3/2020
+3,6,Aga Khan,2,Islamabad,25/6/2020
+3,11,Liaquat,4,Karachi,28/3/2020
+3,,Aga Khan,,Lahore,17/4/2020
+4,23,Jinnah,3,Quetta,21/6/2020
+1,60,Liaquat,,Karachi,13/2/2020
+6,61,Jinnah,,Quetta,16/5/2020
+2,59,Aga Khan,2,Lahore,13/3/2020
+2,47,Liaquat,4,Quetta,8/2/2020
+6,57,Aga Khan,5,Lahore,5/1/2020
+4,3,Jinnah,1,Lahore,30/3/2020
+3,18,Aga Khan,5,Quetta,16/5/2020
+2,5,Aga Khan,3,Karachi,14/6/2020
+2,3,PIMS,2,Peshawar,21/1/2020
+2,27,Jinnah,3,Quetta,7/5/2020
+5,60,Aga Khan,4,Peshawar,28/3/2020
+5,,Jinnah,4,Islamabad,16/6/2020
+6,,PIMS,4,Lahore,27/4/2020
+2,6,Aga Khan,4,Lahore,4/1/2020
+4,,Liaquat,1,Quetta,14/6/2020
+4,34,PIMS,5,Peshawar,2/1/2020
+4,29,Aga Khan,5,Karachi,7/2/2020
+2,47,PIMS,1,Peshawar,14/1/2020
+3,68,PIMS,4,Lahore,23/1/2020
+3,15,Jinnah,1,Quetta,17/1/2020
+2,,Liaquat,,Karachi,8/3/2020
+1,7,Liaquat,3,Karachi,27/2/2020
+4,58,Aga Khan,,Islamabad,25/4/2020
+3,56,Aga Khan,4,Islamabad,20/2/2020
+3,48,PIMS,3,Quetta,23/6/2020
+4,39,Jinnah,2,Peshawar,27/5/2020
+2,,Jinnah,,Peshawar,12/1/2020
