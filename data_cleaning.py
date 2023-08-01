@@ -48,3 +48,6 @@ print(sorted_dataset)
 
 sorted_dataset = dataset.sort_values(by="Date", ascending=False)
 print(sorted_dataset)
+
+# for creaing a new csv file
+dataset.to_csv("updated file.csv")
