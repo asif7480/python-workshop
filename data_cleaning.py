@@ -12,6 +12,10 @@ print(dataset.isnull().sum())
 # here cases contains 53 null values and deaths contain 56 null values
 # now we will drop i.e delete missing values in particular tables
 dataset_with_deleted_duplicates = dataset.dropna()
+
+# note: if you want to in same dataframe of dataset rather than creating a new dataframe then just use inplace keyword
+# dataset.dropna(inplace=True)
+
 # dropna() is used to delete data from a dataset which contain empty values
 print(dataset_with_deleted_duplicates.isnull().sum())
 
